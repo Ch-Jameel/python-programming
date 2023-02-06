@@ -1,4 +1,4 @@
-![logo](https://github.com/Ch-Jameel/Ch-Jameel/blob/main/Data-Science-Roadmap-2-1030x588.png.png)
+![logo](https://github.com/Ch-Jameel/python-programming/blob/main/Python-Complete-Roadmap-for-Beginners-1024x768.jpg)
 
 <img alt="python" align="right" width="400" src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
