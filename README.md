@@ -1,5 +1,7 @@
+![logo](https://github.com/Ch-Jameel/Ch-Jameel/blob/main/Data-Science-Roadmap-2-1030x588.png.png)
 
-<img align="top" alt="python" width="300" scr="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img alt="python" align="right" width="400" src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
 As a programmer, it's essential to have a strong foundation in basic programming concepts like functions, loops etc. These fundamental building blocks form the backbone of most programming languages and are critical to developing efficient, effective, and maintainable code.
 I am pleased to announce that I have a number of python files that contain code samples related to these basic python programming concepts. Whether you are a beginner or an experienced developer looking to brush up on your skills, these files are a valuable resource for anyone looking to improve their programming abilities.
 
